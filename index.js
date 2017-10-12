@@ -30,3 +30,5 @@ if (sayHiToGrandma("I love you, Grandma")){
   } else {
     console.log("YES INDEED")
 }
+
+console.log(sayHiToGrandma)
