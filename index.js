@@ -26,7 +26,7 @@ function sayHiToGrandma(string){
   return "I love you too!"
 }*/
 
-if ("I love you, Grandma"){
+if (console.log("I love you, Grandma"){
   return "I love you too"
 } else if (lowercase.toLowerCase() === lowercase){
   return "I can't hear you!"
