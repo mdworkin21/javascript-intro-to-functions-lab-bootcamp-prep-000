@@ -39,7 +39,7 @@ function sayHiToGrandma(string){
 }
 
 function sayHiToGrandma(string){
-  if ("I love you, Grandma"){
+  if (sayHiToGrandma("I love you, Grandma")){
     return "I love you, too"
   }
 }
