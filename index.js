@@ -26,3 +26,5 @@ function sayHiToGrandma(string){
  }
 
 }
+
+sayHiToGrandma(uppercase);
