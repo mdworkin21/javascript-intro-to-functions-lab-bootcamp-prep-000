@@ -26,8 +26,8 @@ function sayHiToGrandma(string){
   return "I love you too!"
 }*/
 
-if (shout("I love you, Grandma").toLowerCase() === lowercase){
-  return "I love you too"
+if (shout("I love you, Grandma").toUpperCase() === uppercase){
+  return "I love you too."
 } else if (lowercase.toLowerCase() === lowercase){
   return "I can't hear you!"
 } else {
