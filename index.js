@@ -26,10 +26,11 @@ function sayHiToGrandma(string){
   return "I love you too!"
 }*/
 
-if ("I love you, grandma"){
+if ("I love you, Grandma"){
   return "I love you too"
-} else if (lowercase.toLowerCase("I love you, Grandma") === lowercase){
+} else if (lowercase.toLowerCase() === lowercase){
   return "I can't hear you!"
 } else {
   return "YES INDEED"
+}
 }
