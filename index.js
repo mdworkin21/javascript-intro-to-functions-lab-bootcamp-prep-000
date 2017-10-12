@@ -22,7 +22,7 @@ function sayHiToGrandma(string){
   return "I love you, too."
 }
 
-if (sayHiToGrandma.string === "I love you, Grandma"){
+if (sayHiToGrandma("I love you, Grandma")){
 
     console.log("I love you, too")
 } else if (sayHiToGrandma.toLowerCase() === lowercase){
