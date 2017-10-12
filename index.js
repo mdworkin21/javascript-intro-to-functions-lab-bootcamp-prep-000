@@ -25,5 +25,3 @@ function sayHiToGrandma(string){
   }
 
 }
-
-sayHiToGrandma(lowercase);
