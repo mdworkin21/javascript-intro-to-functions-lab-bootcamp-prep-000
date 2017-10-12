@@ -18,8 +18,8 @@ function sayHiToGrandma(string){
   var lowercase = "hello!"
   var uppercase = "HELLO!"
 
-  if (string.toLowerCase(lowercase) === true){
-    return `I can't hear you!`
+  if (sayHiToGrandma.toLowerCase(lowercase) === true){
+    return "I can't hear you!"
   } else {
     return "YES INDEED!"
   }
