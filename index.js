@@ -29,3 +29,8 @@ function sayHiToGrandma(string){
 function sayHiToGrandma(string){
   return "I love you, too."
 }
+
+if (sayHiToGrandma.string === "I love you, Grandma"){
+
+  return "I love you, too."
+}
