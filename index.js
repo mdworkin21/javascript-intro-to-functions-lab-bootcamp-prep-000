@@ -27,4 +27,4 @@ function sayHiToGrandma(string){
 
 }
 
-sayHiToGrandma(string);
+sayHiToGrandma('uppercase');
