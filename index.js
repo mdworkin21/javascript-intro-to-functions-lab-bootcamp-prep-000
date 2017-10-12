@@ -26,7 +26,7 @@ if (sayHiToGrandma.string === "I love you, Grandma"){
 
   console.log("I love you, too")
 } else if (string.toLowerCase() === lowercase){
-    return "I can't hear you!"
+    console.log("I can't hear you!") 
   } else {
     return "YES INDEED"
 }
