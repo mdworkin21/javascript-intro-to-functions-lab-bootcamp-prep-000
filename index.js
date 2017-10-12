@@ -30,5 +30,3 @@ if (sayHiToGrandma.string === "I love you, Grandma"){
   } else {
     console.log("YES INDEED")
 }
-
-sayHiToGrandma(uppercase)
