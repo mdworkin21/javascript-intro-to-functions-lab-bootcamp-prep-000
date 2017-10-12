@@ -27,4 +27,4 @@ function sayHiToGrandma(string){
 
 }
 
-sayHiToGrandma();
+sayHiToGrandma("HELLO!");
